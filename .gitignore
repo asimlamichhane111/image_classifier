@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+#model files
+mlp_model.keras
 
 # Virtual environments
 .venv
+# Lock files
+uv.lock
