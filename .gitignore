@@ -12,5 +12,3 @@ mlp_model.keras
 .venv
 # Lock files
 uv.lock
-
-_MACOSX
